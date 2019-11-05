@@ -1,1 +1,3 @@
-let Objects = 
+function objects (){
+  recipes = {}
+}
